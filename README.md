@@ -12,7 +12,7 @@ I want to add this feature to my foodbuddy app to track all fitness and wellness
 
 The desired consumer of this application is for people who want to have a history to track their fitness journey 
 
-Technoligies 
+Tech used
 
 Responsive Spring Boot application based on MVC architecture (Model, View, Controller) implements all CRUD operations, utilizing Entities, Controller classes, and Interfaces Establishes a connection with React project as a View layer that includes Components for CRUD operations responsive app, Media Queries, Accesses RESTful API from React project using axios and displays in a formatted view (CSS) includes router v6 functionality
 
